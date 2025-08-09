@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-15.6-arm64-arm-64bit",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-08-09T14:19:11.866824Z",
+  "program":  "/Users/dizhen/Library/CloudStorage/OneDrive-Personal/Git/amazon-review-nlp/llm_engineering/amazon-product-price-predictor/07_finetuning_llama_with_qlora.ipynb",
+  "codePath":  "amazon-product-price-predictor/07_finetuning_llama_with_qlora.ipynb",
+  "codePathLocal":  "07_finetuning_llama_with_qlora.ipynb",
+  "git":  {
+    "remote":  "https://github.com/ed-donner/llm_engineering.git",
+    "commit":  "45d44d0352861bac26064c5dad14943346dc7c69"
+  },
+  "email":  "dizhen318@gmail.com",
+  "root":  "/Users/dizhen/Library/CloudStorage/OneDrive-Personal/Git/amazon-review-nlp/llm_engineering/amazon-product-price-predictor",
+  "host":  "Dis-MacBook-Pro.local",
+  "executable":  "/opt/anaconda3/envs/llms/bin/python",
+  "cpu_count":  16,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "624434995200"
+    }
+  },
+  "memory":  {
+    "total":  "68719476736"
+  },
+  "apple":  {
+    "name":  "Apple M4 Max",
+    "ecpuCores":  4,
+    "pcpuCores":  12,
+    "gpuCores":  40,
+    "memoryGb":  64,
+    "swapTotalBytes":  "6442450944",
+    "ramTotalBytes":  "68719476736"
+  },
+  "writerId":  "kua0xnkx2w6unmg1hfxtmcxkgvl5teyq"
+}

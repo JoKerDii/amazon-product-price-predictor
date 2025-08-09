@@ -1,0 +1,72 @@
+_wandb:
+    value:
+        cli_version: 0.21.1
+        e:
+            h87k31bwibs4z5iowdyra2gctdnpadl2:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 40
+                    memoryGb: 64
+                    name: Apple M4 Max
+                    pcpuCores: 12
+                    ramTotalBytes: "68719476736"
+                    swapTotalBytes: "6442450944"
+                codePath: amazon-product-price-predictor/07_finetuning_llama_with_qlora.ipynb
+                codePathLocal: 07_finetuning_llama_with_qlora.ipynb
+                cpu_count: 16
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "624429277184"
+                email: dizhen318@gmail.com
+                executable: /opt/anaconda3/envs/llms/bin/python
+                git:
+                    commit: 45d44d0352861bac26064c5dad14943346dc7c69
+                    remote: https://github.com/ed-donner/llm_engineering.git
+                host: Dis-MacBook-Pro.local
+                memory:
+                    total: "68719476736"
+                os: macOS-15.6-arm64-arm-64bit
+                program: /Users/dizhen/Library/CloudStorage/OneDrive-Personal/Git/amazon-review-nlp/llm_engineering/amazon-product-price-predictor/07_finetuning_llama_with_qlora.ipynb
+                python: CPython 3.11.11
+                root: /Users/dizhen/Library/CloudStorage/OneDrive-Personal/Git/amazon-review-nlp/llm_engineering/amazon-product-price-predictor
+                startedAt: "2025-08-09T14:19:08.924879Z"
+                writerId: h87k31bwibs4z5iowdyra2gctdnpadl2
+        m: []
+        python_version: 3.11.11
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 41
+                - 49
+                - 51
+                - 53
+                - 71
+                - 84
+                - 98
+                - 105
+            "2":
+                - 1
+                - 5
+                - 11
+                - 41
+                - 49
+                - 51
+                - 53
+                - 71
+                - 84
+                - 98
+                - 105
+            "3":
+                - 2
+                - 13
+            "4": 3.11.11
+            "5": 0.21.1
+            "6": 4.47.0
+            "8":
+                - 1
+            "12": 0.21.1
+            "13": darwin-arm64
